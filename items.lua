@@ -1,7 +1,7 @@
 
 -- Register all your weapons item here !
 weapons = {
-    [GetHashKey("weapon_pistol")] = {itemName = "pistol", itemLabel = "Pistol",},
+    [GetHashKey("weapon_pistol")] = {itemName = "pistol", itemLabel = "~b~Pistol", prop = "w_pi_combatpistol"},
 }
 
 
